@@ -24,7 +24,7 @@ face_shapes = []
 trustworthiness_indices = []
 
 start_time = time.time()
-measurement_duration = 5  # 3초로 측정 시간 설정
+measurement_duration = 5  # 5초로 측정 시간 설정
 
 # Function to calculate midpoint
 def midpoint(p1, p2):
